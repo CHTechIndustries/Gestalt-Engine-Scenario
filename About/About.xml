@@ -59,11 +59,15 @@ A: Once apon a time, it was. But so many changes occured, and the 1.4 version wa
 			no longer maintained
 
 		-->
+		
+		<!--
 			<li>
 				<packageId>mlie.gestaltengine</packageId>
 				<displayName>Gestalt Engine (Continued)</displayName>
 				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3392334612</steamWorkshopUrl>
 			</li>
+			now contained in reinforced mechanoids 2, which is quite possibly a better option. So, removed -->
+
 		<li>
 			<packageId>chtech.EmS</packageId>
 			<displayName>Extricate my Ship</displayName>
@@ -100,5 +104,6 @@ A: Once apon a time, it was. But so many changes occured, and the 1.4 version wa
 		<li>witek.mechscanhaultocharger</li>
 		<li>tongonto.mechindependence</li>
 		<li>hlx.gestaltengine</li>
+		<li>mlie.gestaltengine<li>
 	</incompatibleWith>
 </ModMetaData>
