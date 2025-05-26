@@ -94,7 +94,7 @@ A: Once apon a time, it was. But so many changes occured, and the 1.4 version wa
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.core</li>
-		<li>chtech.devorder</li>
+		<li>chtech.devorder</li> 
 		<li>sarg.alphamechs</li>
 		<li>oskarpotocki.vfe.mechanoid</li>
 		<li>vanillaexpanded.vfea</li>
