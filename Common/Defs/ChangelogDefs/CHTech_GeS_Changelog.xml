@@ -131,7 +131,7 @@ deleted empty placeholders in 1.4
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.0.4</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -157,22 +157,37 @@ added tabula rasa based changelog
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.0.4</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- 0.1.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_20240518</defName>
-		<date>2024/05/18</date>
+		<defName>CHTech_GeS_log_20240706</defName>
+		<date>2024/07/06</date>
 		<banner />
 		<contentList>
 			<li>
 				<header>Matriarchs</header>
-				<text>Added in a patch that (should) allow the matriarch mech to craft subcores, I hope. Maybe. Possibly. Perhaps.
-
+				<text>Added in a patch that (should) allow the matriarch mech to research. I hope. Maybe. Possibly. Perhaps.
 </text>
+			</li>
+			<li>
+				<header>Steam Description/ Changelog</header>
+				<text>update steam description
+add progress list
+use new github link method
+</text>
+			</li>
+			<li>
+				<header>Progress</header>
+				<text>Holography: 0%
+Gestalt Engine Avatar: 0%
+Subcore Production: 8%
+Research: 39%
+Scenarios: 3%
+				</text>
 			</li>
 		</contentList>
 		<links>
@@ -183,7 +198,92 @@ added tabula rasa based changelog
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.1.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+	<!-- 1.0.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20240823</defName>
+		<date>2024/08/23</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Reqriments</header>
+				<text>Change the source of power, hopefully also will bypass solar flares.
+</text>
+			</li>
+			<li>
+				<header>Steam Description/ Changelog</header>
+				<text>update steam description
+use new github link method
+</text>
+			</li>
+			<li>
+				<header>Progress</header>
+				<text>Temporarilly made n/a as this mod is now, for the moment, back to being only for the (future) scenarios. Some other extras to aid in it will come, but not at this moment.
+Start work on icons and begining scenario. Possibly, this might be finished within a week (proceeds to take 5 months)
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3157412469</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v0.9.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+	<!-- 0.9.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250526</defName>
+		<date>2025/05/26</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Gestalt Engine Continued</header>
+				<text>Now requires Gestalt Engine Continued, as the original one is depracated</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.9.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- 0.9.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250526_2</defName>
+		<date>2025/05/26</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Gestalt Engine Continued</header>
+				<text>Changed to reinforced mechanoids 2, as it is, well, better. Also added the change log which I had forgotten</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.9.2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
