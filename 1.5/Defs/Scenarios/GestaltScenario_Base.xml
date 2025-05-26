@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<ScenarioDef>
-		<defName>TdT_GestScen_Prototype</defName>
-		<label>Gestalt Scenario Prototype 0.3</label>
+	<ScenarioDef Name="InitialBase">
+		<defName>CHTech_GestScen_Base</defName>
+		<label>Gestalt Scenario Base</label>
 		<description>prototype of gestalt engine scenario</description>
 		<scenario>
 			<summary>prototype</summary>
@@ -13,13 +13,17 @@
 		<parts>
 			<li Class="ScenPart_ConfigPage_ConfigureStartingPawns_KindDefs">
 				<def>ConfigurePawnsKindDefs</def>
-				<pawnChoiceCount>8</pawnChoiceCount>
+				<pawnChoiceCount>1</pawnChoiceCount>
 				<kindCounts>
 					<li>
 						<requiredAtStart>True</requiredAtStart>
 						<kindDef>Mechanitor</kindDef>
 					</li>
 				</kindCounts>
+			</li>
+			<li Class="ScenPart_GameStartDialog">
+				<def>GameStartDialog</def>
+				<text>placeholder</text>
 			</li>
 			<li Class="ScenPart_PlayerPawnsArriveMethod">
 				<def>PlayerPawnsArriveMethod</def>
@@ -102,6 +106,26 @@
 				<count>4</count>
 			</li>
 			</parts>
+		</scenario>
+	</ScenarioDef>
+	<ScenarioDef ParentName="InitialBase" Name="NoFlareBase">
+		<defName>CHTech_GestScen_BaseNoFlare</defName>
+		<scenario>
+			<li Class="ScenPart_DisableIncident">
+				<def>DisableIncident</def>
+				<incident>SolarFlare</incident>
+			</li>
+		</parts>
+		</scenario>
+	</ScenarioDef>
+	<ScenarioDef ParentName="InitialBase" Name="AgeLimitBase">
+	<defName>CHTech_GestScen_AgeLimit</defName>
+		<scenario>
+			<li Class="ScenPart_PawnFilter_Age">
+				<def>PawnFilter_Age</def>
+				<allowedAgeRange>26~30</allowedAgeRange>
+			</li>
+		</parts>
 		</scenario>
 	</ScenarioDef>
 </Defs>
