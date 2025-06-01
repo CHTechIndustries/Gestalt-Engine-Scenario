@@ -25,8 +25,8 @@ Also, I am the first to admit, I'm not that good of an artist. So, I will shamel
 FAQ
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
-	Do note, I have heard that Gestalt Engine (the main reqrirment) is compatible. However, another feature of this mod is similar to a feature in a mod that is not compatible, but just the feature is similar, and the incompatibility is from an unrelated part of that mod... so, who knows!
-	
+		and, while I have heard that Gestalt Engine is compatible, reinforced mechanoids 2 is a different story alltogether. I have no clue, so unintentional features might exist!
+
 Q: Why isn't it 1.4 compatible?
 A: Once apon a time, it was. But so many changes occured, and the 1.4 version was effectivly empty, so it was decided the best option was to remove it.
 	
@@ -60,11 +60,20 @@ Progress:
 			no longer maintained
 
 		-->
+		
+		<!--
 			<li>
 				<packageId>mlie.gestaltengine</packageId>
 				<displayName>Gestalt Engine (Continued)</displayName>
 				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3392334612</steamWorkshopUrl>
 			</li>
+			now contained in reinforced mechanoids 2, which is quite possibly a better option. So, removed -->
+
+		<li>
+			<packageId>mlie.reinforcedmechanoid2</packageId>
+			<displayName>Reinforced Mechanoid 2 (Continued)</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047</steamWorkshopUrl>
+		</li> <!-- this has the contents of gestalt engine, and so much more. So... replaced -->
 		<li>
 			<packageId>chtech.EmS</packageId>
 			<displayName>Extricate my Ship</displayName>
@@ -101,5 +110,6 @@ Progress:
 		<li>witek.mechscanhaultocharger</li>
 		<li>tongonto.mechindependence</li>
 		<li>hlx.gestaltengine</li>
+		<li>mlie.gestaltengine<li>
 	</incompatibleWith>
 </ModMetaData>
