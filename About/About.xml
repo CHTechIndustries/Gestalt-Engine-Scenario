@@ -102,7 +102,7 @@ Progress:
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
-		<li>smashphil.xmlpatchhelper</li>
+		<li>smashphil.xmlpatchhelper</li> 
 		<li>co.uk.epicguru.whatsthatmod</li>
 		<li>chtech.rimworldextended.main</li>
 	</loadBefore>
