@@ -131,7 +131,7 @@ deleted empty placeholders in 1.4
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.0.4</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -259,79 +259,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v0.9.1</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- 0.9.2 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_20250526_2</defName>
-		<date>2025/05/26</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Reinforced Mechanoids 2</header>
-				<text>Changed to reinforced mechanoids 2, as it is, well, better. Also added the change log which I had forgotten</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v0.9.2</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-	<!-- 0.9.3 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_202507201</defName>
-		<date>2025/07/01</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Fix Links</header>
-				<text>Went and fixed some links I had mistyped</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v0.9.3</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-	<!-- 0.10.0 -->
-		<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_20250701_2</defName>
-		<date>2025/07/01</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Disable some requirments</header>
-				<text>disabled some of the requirments. More specificly, disabled Extricate my Ship, as that requires Save our Ship 2. And with the newest DLC, I have no idea what will happen</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v0.10.0</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.9.1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
