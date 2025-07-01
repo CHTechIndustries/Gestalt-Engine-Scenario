@@ -12,3 +12,10 @@
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</steamWorkshopUrl>
 			<downloadUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip</downloadUrl>
 		</li>
+
+
+			<li>
+				<packageId>mlie.gestaltengine</packageId>
+				<displayName>Gestalt Engine (Continued)</displayName>
+				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3392334612</steamWorkshopUrl>
+			</li>
