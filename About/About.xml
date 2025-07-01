@@ -96,7 +96,7 @@ Progress:
 		</li>
 		
 		
-	</modDependencies>
+	</modDependencies> 
 	<loadAfter>
 		<li>chtech.core</li>
 		<li>chtech.devorder</li>
