@@ -55,6 +55,9 @@ A: Once apon a time, it was. But so many changes occured, and the 1.4 version wa
 			<displayName>Gestalt Engine</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691</steamWorkshopUrl>
 		</li>
+
+			no longer maintained
+
 		-->
 			<li>
 				<packageId>mlie.gestaltengine</packageId>
@@ -96,5 +99,6 @@ A: Once apon a time, it was. But so many changes occured, and the 1.4 version wa
 	<incompatibleWith>
 		<li>witek.mechscanhaultocharger</li>
 		<li>tongonto.mechindependence</li>
+		<li>hlx.gestaltengine</li>
 	</incompatibleWith>
 </ModMetaData>
