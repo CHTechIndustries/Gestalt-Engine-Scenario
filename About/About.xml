@@ -30,13 +30,14 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 Q: Why isn't it 1.4 compatible?
 A: Once apon a time, it was. But so many changes occured, and the 1.4 version was effectivly empty, so it was decided the best option was to remove it.
 	
+<!-- Progress:
 Progress:
 	Holography: 0%
 	Gestalt Engine Avatar: 0%
 	Subcore Production: 8%
 	Research: 39%
 	Scenarios: 3%
-	Caravans: 12%
+	Caravans: 12% -->
 </description>
 
 	<modDependencies>
@@ -51,15 +52,6 @@ Progress:
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</steamWorkshopUrl>
 			<downloadUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</downloadUrl>
 		</li>
-		<!-- <li>
-			<packageId>hlx.gestaltengine</packageId>
-			<displayName>Gestalt Engine</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691</steamWorkshopUrl>
-		</li>
-
-			no longer maintained
-
-		-->
 		<li>
 			<packageId>mlie.reinforcedmechanoid2</packageId>
 			<displayName>Reinforced Mechanoid 2 (Continued)</displayName>
