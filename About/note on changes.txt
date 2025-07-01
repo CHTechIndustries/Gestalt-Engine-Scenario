@@ -1,0 +1,6 @@
+			<li>
+				<packageId>mlie.gestaltengine</packageId>
+				<displayName>Gestalt Engine (Continued)</displayName>
+				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3392334612</steamWorkshopUrl>
+			</li>
+		<li>
