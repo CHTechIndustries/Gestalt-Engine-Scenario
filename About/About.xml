@@ -60,11 +60,11 @@ Progress:
 			no longer maintained
 
 		-->
-			<li>
-				<packageId>mlie.gestaltengine</packageId>
-				<displayName>Gestalt Engine (Continued)</displayName>
-				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3392334612</steamWorkshopUrl>
-			</li>
+		<li>
+			<packageId>mlie.reinforcedmechanoid2</packageId>
+			<displayName>Reinforced Mechanoid 2 (Continued)</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047</steamWorkshopUrl>
+		</li>
 		<li>
 			<packageId>tongonto.mechcaravans</packageId>
 			<displayName>Mechanoid Caravans</displayName>
