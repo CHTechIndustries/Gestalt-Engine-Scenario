@@ -344,7 +344,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 		<contentList>
 			<li>
 				<header>Fix About file</header>
-				<text>corrected some errors in the typing of the about file</text>
+				<text>corrected some errors in the typing of the about file. Correct, lots. Most of them appear to be redundant, the main issue was an insidius, missing forward slash</text>
 			</li>
 		</contentList>
 		<links>
