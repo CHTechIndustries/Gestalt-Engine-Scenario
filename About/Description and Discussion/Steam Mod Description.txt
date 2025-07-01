@@ -1,4 +1,4 @@
-[h1]THIS MOD IS QUITE COMPLEX AND A MAJOR WORK IN PROGRESS[/h1]
+note[h1]THIS MOD IS QUITE COMPLEX AND A MAJOR WORK IN PROGRESS[/h1]
 [h2]What that means[/h2]
 [b][olist]
 [*]Updates will be semi-sporiadic due to complexity and necessary breaks
