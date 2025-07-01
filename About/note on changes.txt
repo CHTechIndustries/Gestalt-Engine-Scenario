@@ -1,9 +1,9 @@
-			<li>
-				<packageId>mlie.gestaltengine</packageId>
-				<displayName>Gestalt Engine (Continued)</displayName>
-				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3392334612</steamWorkshopUrl>
-			</li>
-		<li>
+<li>
+			<packageId>hlx.gestaltengine</packageId>
+			<displayName>Gestalt Engine</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691</steamWorkshopUrl>
+		</li>
+
 
 
 		<li>
