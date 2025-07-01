@@ -79,11 +79,7 @@ Progress:
 			<displayName>Extricate my Ship</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</steamWorkshopUrl>
 			<downloadUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip</downloadUrl>
-<<<<<<< HEAD
 		</li>
-=======
-		</li> --> <!-- commented out as, with the odesy DLC, I have no clue what Save our Ship will do -->
->>>>>>> parent of f23d61c (edit comment)
 		<li>
 			<packageId>tongonto.mechcaravans</packageId>
 			<displayName>Mechanoid Caravans</displayName>
@@ -106,7 +102,7 @@ Progress:
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
-		<li>smashphil.xmlpatchhelper</li>
+		<li>smashphil.xmlpatchhelper</li> 
 		<li>co.uk.epicguru.whatsthatmod</li>
 		<li>chtech.rimworldextended.main</li>
 	</loadBefore>
