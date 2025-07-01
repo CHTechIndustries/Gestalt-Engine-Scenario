@@ -93,6 +93,7 @@ Progress:
 		<li>sarg.alphamechs</li>
 		<li>oskarpotocki.vfe.mechanoid</li>
 		<li>vanillaexpanded.vfea</li>
+		<li>chtech.ems</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
@@ -105,5 +106,6 @@ Progress:
 		<li>tongonto.mechindependence</li>
 		<li>hlx.gestaltengine</li>
 		<li>mlie.gestaltengine<li>
+		
 	</incompatibleWith>
 </ModMetaData>
