@@ -85,6 +85,7 @@ Progress:
 		<li>sarg.alphamechs</li>
 		<li>oskarpotocki.vfe.mechanoid</li>
 		<li>vanillaexpanded.vfea</li>
+		<li>chtech.EmS</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
