@@ -31,6 +31,7 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 Q: Why isn't it 1.4 compatible?
 A: Once apon a time, it was. But so many changes occured, and the 1.4 version was effectivly empty, so it was decided the best option was to remove it.
 	
+<!-- Progress:
 Progress:
 	Holography: 0%
 	Gestalt Engine Avatar: 0%
@@ -52,35 +53,11 @@ Progress:
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</steamWorkshopUrl>
 			<downloadUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</downloadUrl>
 		</li>
-		<!-- <li>
-			<packageId>hlx.gestaltengine</packageId>
-			<displayName>Gestalt Engine</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691</steamWorkshopUrl>
-		</li>
-
-			no longer maintained
-
-		-->
-		
-		<!--
-			<li>
-				<packageId>mlie.gestaltengine</packageId>
-				<displayName>Gestalt Engine (Continued)</displayName>
-				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3392334612</steamWorkshopUrl>
-			</li>
-			now contained in reinforced mechanoids 2, which is quite possibly a better option. So, removed -->
-
 		<li>
 			<packageId>mlie.reinforcedmechanoid2</packageId>
 			<displayName>Reinforced Mechanoid 2 (Continued)</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047</steamWorkshopUrl>
-		</li> <!-- this has the contents of gestalt engine, and so much more. So... replaced -->
-	<!--	<li>
-			<packageId>chtech.EmS</packageId>
-			<displayName>Extricate my Ship</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</steamWorkshopUrl>
-			<downloadUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip</downloadUrl>
-		</li> --> <!-- commented out as, with the odesy DLC, I have no clue what Save our Ship will do -->
+		</li>
 		<li>
 			<packageId>tongonto.mechcaravans</packageId>
 			<displayName>Mechanoid Caravans</displayName>
@@ -100,7 +77,7 @@ Progress:
 		<li>sarg.alphamechs</li>
 		<li>oskarpotocki.vfe.mechanoid</li>
 		<li>vanillaexpanded.vfea</li>
-		<li>chtech.ems</li>
+		<li>chtech.EmS</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
@@ -112,6 +89,6 @@ Progress:
 		<li>witek.mechscanhaultocharger</li>
 		<li>tongonto.mechindependence</li>
 		<li>hlx.gestaltengine</li>
-		<li>mlie.gestaltengine<li>
+		<li>mlie.gestaltengine</li>
 	</incompatibleWith>
 </ModMetaData>
