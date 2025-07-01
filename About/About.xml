@@ -67,12 +67,6 @@ Progress:
 				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3392334612</steamWorkshopUrl>
 			</li>
 		<li>
-			<packageId>chtech.EmS</packageId>
-			<displayName>Extricate my Ship</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</steamWorkshopUrl>
-			<downloadUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip</downloadUrl>
-		</li>
-		<li>
 			<packageId>tongonto.mechcaravans</packageId>
 			<displayName>Mechanoid Caravans</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3253006390</steamWorkshopUrl>
@@ -91,6 +85,7 @@ Progress:
 		<li>sarg.alphamechs</li>
 		<li>oskarpotocki.vfe.mechanoid</li>
 		<li>vanillaexpanded.vfea</li>
+		<li>chtech.EmS</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
