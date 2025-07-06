@@ -1,0 +1,9 @@
+ <?xml version="1.0" encoding="utf-8" ?> <!-- made with the assistance of XML Patch Helper -->
+
+<Patch>
+	<Operation Class="PatchOperationAttributeSet"> <!-- used to be able to base the scenario off of the vanilla mechanator scenario -->
+		<xpath>Defs/ScenarioDef [defName="Mechanitor"]</xpath>
+		<value>Mechanitor_scen</value>
+		<attribute>Name</attribute>
+	</Operation>
+</Patch>

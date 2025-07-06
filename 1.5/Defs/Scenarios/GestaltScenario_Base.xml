@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ScenarioDef ParentName="Mechanitor_scen">
+		<defName>CHTech_GestScen_Base</defName>
+		<description>Gestalt Engine Scenario Basis</description>
+	</ScenarioDef>
+</Defs>
