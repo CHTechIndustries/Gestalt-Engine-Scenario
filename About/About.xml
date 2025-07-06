@@ -4,7 +4,7 @@
 	<author>CTH2004, Breadmond</author>
 	<packageId>CHTech.GeS</packageId>
 	<url>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/wiki</url>
-	<modVersion>Transfer 1</modVersion>
+	<modVersion>Transfer 2</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
@@ -70,6 +70,20 @@ Progress:
 		
 		
 	</modDependencies>
+	<loadAfter>
+		<li>chtech.core</li>
+		<li>chtech.devorder</li>
+		<li>sarg.alphamechs</li>
+		<li>oskarpotocki.vfe.mechanoid</li>
+		<li>vanillaexpanded.vfea</li>
+		<li>chtech.EmS</li>
+	</loadAfter>
+	<loadBefore>
+		<li>gege.exportedxenotypestoragemodfolder</li>
+		<li>smashphil.xmlpatchhelper</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
+		<li>chtech.rimworldextended.main</li>
+	</loadBefore>
 	<incompatibleWith>
 		<li>witek.mechscanhaultocharger</li>
 		<li>tongonto.mechindependence</li>
