@@ -339,7 +339,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 		<!-- 0.10.1 -->
 		<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250701_3</defName>
-		<date>2025/07/01</date>
+		<date>2025/07/05</date>
 		<banner />
 		<contentList>
 			<li>
@@ -356,6 +356,82 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			<li>
 				<linkLabel>GitHub</linkLabel>
 				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v0.10.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+		<!-- 1.0.0-g -->
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250705</defName>
+		<date>2025/07/05</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Transfer to fork</header>
+				<text>Transfered the mod itself into a fork of my main mod, to allow compat and possible mergeing</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario-2/releases/tag/v1.0.0g</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+	
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250706_1</defName>
+		<date>2025/07/06</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Transfer back</header>
+				<text>Transfer it back to the original repo, to allow for an easier user expirience for transfer (details to come)</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>That transfer attempt</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario-2/releases/tag/v1.0.1g</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>Primary Repository</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v1.01g</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250706_1</defName>
+		<date>2025/07/06</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Trim</header>
+				<text>Remove as many files as I can</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>Github/linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v-t1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
