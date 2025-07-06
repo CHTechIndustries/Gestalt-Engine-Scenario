@@ -63,20 +63,6 @@ Progress:
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047</steamWorkshopUrl>
 		</li>
 	</modDependencies>
-	<loadAfter>
-		<li>chtech.core</li>
-		<li>chtech.devorder</li>
-		<li>sarg.alphamechs</li>
-		<li>oskarpotocki.vfe.mechanoid</li>
-		<li>vanillaexpanded.vfea</li>
-		<li>chtech.EmS</li>
-	</loadAfter>
-	<loadBefore>
-		<li>gege.exportedxenotypestoragemodfolder</li>
-		<li>smashphil.xmlpatchhelper</li>
-		<li>co.uk.epicguru.whatsthatmod</li>
-		<li>chtech.rimworldextended.main</li>
-	</loadBefore>
 	<incompatibleWith>
 		<li>witek.mechscanhaultocharger</li>
 		<li>tongonto.mechindependence</li>
