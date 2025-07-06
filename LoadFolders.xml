@@ -2,8 +2,6 @@
 <loadFolders>
 	<v1.5>
 		<li>/</li>
-		<li>1.5</li>
-		<li IfModActive="cedaro.infinitegestaltengine">1.5/Mods/InfiniGest</li>
 		<li>Common</li>
 	</v1.5>
 </loadFolders>
