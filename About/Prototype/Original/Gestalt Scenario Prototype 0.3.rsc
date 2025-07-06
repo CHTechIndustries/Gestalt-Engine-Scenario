@@ -1,29 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Defs>
-	<ScenarioDef Name="InitialBase">
-		<defName>CHTech_GestScen_Base</defName>
-		<label>Gestalt Scenario Base</label>
+<savedscenario>
+	<meta>
+		<gameVersion>1.4.3901 rev238</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>nimrag.scenariosearchbar</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>hlx.gestaltengine</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Scenario Searchbars</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Gestalt Engine</li>
+		</modNames>
+	</meta>
+	<scenario>
+		<name>Gestalt Scenario Prototype 0.3</name>
+		<summary>prototype</summary>
 		<description>prototype of gestalt engine scenario</description>
-		<scenario>
-			<summary>prototype</summary>
-			<playerFaction>
+		<publishedFileId>3157511590</publishedFileId>
+		<playerFaction>
 			<def>PlayerFaction</def>
 			<factionDef>PlayerColony</factionDef>
 		</playerFaction>
 		<parts>
 			<li Class="ScenPart_ConfigPage_ConfigureStartingPawns_KindDefs">
 				<def>ConfigurePawnsKindDefs</def>
-				<pawnChoiceCount>1</pawnChoiceCount>
+				<pawnChoiceCount>8</pawnChoiceCount>
 				<kindCounts>
 					<li>
 						<requiredAtStart>True</requiredAtStart>
 						<kindDef>Mechanitor</kindDef>
 					</li>
 				</kindCounts>
-			</li>
-			<li Class="ScenPart_GameStartDialog">
-				<def>GameStartDialog</def>
-				<text>placeholder</text>
 			</li>
 			<li Class="ScenPart_PlayerPawnsArriveMethod">
 				<def>PlayerPawnsArriveMethod</def>
@@ -105,27 +133,6 @@
 				<thingDef>VanometricPowerCell</thingDef>
 				<count>4</count>
 			</li>
-			</parts>
-		</scenario>
-	</ScenarioDef>
-	<ScenarioDef ParentName="InitialBase" Name="NoFlareBase">
-		<defName>CHTech_GestScen_BaseNoFlare</defName>
-		<scenario>
-			<li Class="ScenPart_DisableIncident">
-				<def>DisableIncident</def>
-				<incident>SolarFlare</incident>
-			</li>
 		</parts>
-		</scenario>
-	</ScenarioDef>
-	<ScenarioDef ParentName="InitialBase" Name="AgeLimitBase">
-	<defName>CHTech_GestScen_AgeLimit</defName>
-		<scenario>
-			<li Class="ScenPart_PawnFilter_Age">
-				<def>PawnFilter_Age</def>
-				<allowedAgeRange>26~30</allowedAgeRange>
-			</li>
-		</parts>
-		</scenario>
-	</ScenarioDef>
-</Defs>
+	</scenario>
+</savedscenario>
