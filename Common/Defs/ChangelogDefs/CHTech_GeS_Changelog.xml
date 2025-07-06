@@ -386,7 +386,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 	</TabulaRasa.UpdateDef>
 	
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_20250706_1</defName>
+		<defName>CHTech_GeS_log_20250706</defName>
 		<date>2025/07/06</date>
 		<banner />
 		<contentList>
@@ -413,14 +413,18 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250706_1</defName>
 		<date>2025/07/06</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>Trim</header>
+				<header>Transfer 1</header>
 				<text>Remove as many files as I can</text>
+			</li>
+			<li>
+				<header>Transfer 2</header>
+				<text>Fix Changelog</text>
 			</li>
 		</contentList>
 		<links>
@@ -430,8 +434,13 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
-				<linkLabel>Github/linkLabel>
+				<linkLabel>GitHub: Transfer 1</linkLabel
 				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v-t1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub: Transfer 2</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v-t2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>

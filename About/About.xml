@@ -4,7 +4,7 @@
 	<author>CTH2004, Breadmond</author>
 	<packageId>CHTech.GeS</packageId>
 	<url>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/wiki</url>
-	<modVersion>Transfer 1</modVersion>
+	<modVersion>1.0.0</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
@@ -39,7 +39,6 @@ Progress:
 	Scenarios: 3%
 	Caravans: 12% -->
 </description>
-
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
@@ -53,37 +52,16 @@ Progress:
 			<downloadUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</downloadUrl>
 		</li>
 		<li>
+			<packageId>chtech.rimworldextended.main</packageId>
+			<displayName>Rimworld Extended: Properly</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</steamWorkshopUrl>
+		</li>
+		<li>
 			<packageId>mlie.reinforcedmechanoid2</packageId>
 			<displayName>Reinforced Mechanoid 2 (Continued)</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>tongonto.mechcaravans</packageId>
-			<displayName>Mechanoid Caravans</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3253006390</steamWorkshopUrl>
-		</li>
-		<li>
-			<packageId>ratys.rtsolarflareshield</packageId>
-			<displayName>RT Power Switch</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=728315620</steamWorkshopUrl>
-		</li>
-		
-		
 	</modDependencies>
-	<loadAfter>
-		<li>chtech.core</li>
-		<li>chtech.devorder</li>
-		<li>sarg.alphamechs</li>
-		<li>oskarpotocki.vfe.mechanoid</li>
-		<li>vanillaexpanded.vfea</li>
-		<li>chtech.EmS</li>
-	</loadAfter>
-	<loadBefore>
-		<li>gege.exportedxenotypestoragemodfolder</li>
-		<li>smashphil.xmlpatchhelper</li>
-		<li>co.uk.epicguru.whatsthatmod</li>
-		<li>chtech.rimworldextended.main</li>
-	</loadBefore>
 	<incompatibleWith>
 		<li>witek.mechscanhaultocharger</li>
 		<li>tongonto.mechindependence</li>
