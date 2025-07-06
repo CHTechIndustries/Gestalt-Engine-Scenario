@@ -339,7 +339,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 		<!-- 0.10.1 -->
 		<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250701_3</defName>
-		<date>2025/07/01</date>
+		<date>2025/07/05</date>
 		<banner />
 		<contentList>
 			<li>
@@ -363,7 +363,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 		<!-- 1.0.0-g -->
 		<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250705</defName>
-		<date>2025/07/01</date>
+		<date>2025/07/05</date>
 		<banner />
 		<contentList>
 			<li>
@@ -387,12 +387,12 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 	
 	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250705_1</defName>
-		<date>2025/07/01</date>
+		<date>2025/07/05</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>Minor enhancments</header>
-				<text>Minor Enhancments</text>
+				<header>Transfer back</header>
+				<text>Transfer it back to the original repo, to allow for an easier user expirience for transfer (details to come)</text>
 			</li>
 		</contentList>
 		<links>
@@ -402,8 +402,13 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
-				<linkLabel>GitHub</linkLabel>
+				<linkLabel>That transfer attempt</linkLabel>
 				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario-2/releases/tag/v1.0.1g</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>Primary Repository</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v1.01g</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
