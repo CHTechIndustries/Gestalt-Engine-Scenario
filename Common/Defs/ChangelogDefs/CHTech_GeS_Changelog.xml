@@ -386,7 +386,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 	</TabulaRasa.UpdateDef>
 	
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_20250706_1</defName>
+		<defName>CHTech_GeS_log_20250706</defName>
 		<date>2025/07/06</date>
 		<banner />
 		<contentList>
@@ -413,7 +413,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250706_1</defName>
 		<date>2025/07/06</date>
 		<banner />
@@ -430,7 +430,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
-				<linkLabel>Github/linkLabel>
+				<linkLabel>GitHub/linkLabel>
 				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v-t1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
