@@ -1,1 +1,0 @@
-Is being integrated into another mod (Rimworld Properly Extended. More coming soon)-ish
