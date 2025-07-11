@@ -448,6 +448,8 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 		</links>
 	</TabulaRasa.UpdateDef>
 		<TabulaRasa.UpdateDef>
+	<!-- version 3.1.0 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250711_1</defName>
 		<date>2025/07/11</date>
 		<banner />
