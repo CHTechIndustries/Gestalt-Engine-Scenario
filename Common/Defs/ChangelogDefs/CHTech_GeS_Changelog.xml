@@ -32,7 +32,7 @@ notes:
 -->
 
 <!-- version 0.0.0 -->
-<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20240209</defName>
 		<date>2024/02/09</date>
 		<banner />
@@ -56,7 +56,7 @@ notes:
 		</links>
 	</TabulaRasa.UpdateDef>
  <!-- 0.0.1 -->
-<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20240217</defName>
 		<date>2024/02/17</date>
 		<banner />
@@ -83,7 +83,7 @@ Uploaded public, as an extreme alpha</text>
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- 0.0.2 -->
-<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20240324</defName>
 		<date>2024/03/24</date>
 		<banner />
@@ -108,7 +108,7 @@ changed the core mod's ID to it's new ID</text>
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- 0.0.3 -->
-<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20240412</defName>
 		<date>2024/04/12</date>
 		<banner />
@@ -137,7 +137,7 @@ deleted empty placeholders in 1.4
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- 0.0.4 -->
-<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20240516</defName>
 		<date>2024/05/16</date>
 		<banner />
@@ -163,7 +163,7 @@ added tabula rasa based changelog
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- 0.1.0 -->
-<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20240706</defName>
 		<date>2024/07/06</date>
 		<banner />
@@ -203,8 +203,8 @@ Scenarios: 3%
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 1.0.0 -->
-<TabulaRasa.UpdateDef>
+	<!-- 1.0.0 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20240823</defName>
 		<date>2024/08/23</date>
 		<banner />
@@ -240,8 +240,8 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 0.9.1 -->
-<TabulaRasa.UpdateDef>
+	<!-- 0.9.1 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250526</defName>
 		<date>2025/05/26</date>
 		<banner />
@@ -265,7 +265,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- 0.9.2 -->
-<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250526_2</defName>
 		<date>2025/05/26</date>
 		<banner />
@@ -288,8 +288,8 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 0.9.3 -->
-<TabulaRasa.UpdateDef>
+	<!-- 0.9.3 -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_202507201</defName>
 		<date>2025/07/01</date>
 		<banner />
@@ -312,8 +312,8 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 0.10.0 -->
-<TabulaRasa.UpdateDef>
+	<!-- 0.10.0 -->
+		<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250701_2</defName>
 		<date>2025/07/01</date>
 		<banner />
@@ -336,8 +336,9 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 0.10.1 -->
-<TabulaRasa.UpdateDef>
+	
+	<!-- 0.10.1 -->
+		<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250701_3</defName>
 		<date>2025/07/05</date>
 		<banner />
@@ -360,8 +361,9 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 1.0.0-g -->
-<TabulaRasa.UpdateDef>
+		
+	<!-- 1.0.0-g -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250705</defName>
 		<date>2025/07/05</date>
 		<banner />
@@ -384,7 +386,8 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<TabulaRasa.UpdateDef>
+	<!-- 1.01g -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250706</defName>
 		<date>2025/07/06</date>
 		<banner />
@@ -412,7 +415,9 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<TabulaRasa.UpdateDef>
+	<!-- version t-2 and t-1 -->
+	
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250706_1</defName>
 		<date>2025/07/06</date>
 		<banner />
@@ -444,8 +449,9 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_20250711_1</defName>
+	<!-- version 3.1.0 -->
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250711</defName>
 		<date>2025/07/11</date>
 		<banner />
 		<contentList>
