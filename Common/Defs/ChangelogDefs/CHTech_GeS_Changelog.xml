@@ -360,8 +360,8 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<!-- 1.0.0-g -->
 		<TabulaRasa.UpdateDef>
+	<!-- 1.0.0-g -->
 		<defName>CHTech_GeS_log_20250705</defName>
 		<date>2025/07/05</date>
 		<banner />
