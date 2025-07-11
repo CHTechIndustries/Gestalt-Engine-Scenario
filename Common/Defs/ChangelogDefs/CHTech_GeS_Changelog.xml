@@ -336,8 +336,9 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+	
 	<!-- 0.10.1 -->
+		<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250701_3</defName>
 		<date>2025/07/05</date>
 		<banner />
@@ -360,8 +361,9 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+		
 	<!-- 1.0.0-g -->
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250705</defName>
 		<date>2025/07/05</date>
 		<banner />
@@ -447,7 +449,6 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
 	<!-- version 3.1.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250711_1</defName>
