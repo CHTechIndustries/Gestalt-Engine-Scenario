@@ -384,7 +384,7 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
+	<!-- 1.01g -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTech_GeS_log_20250706</defName>
 		<date>2025/07/06</date>
